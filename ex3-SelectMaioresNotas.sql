@@ -1,0 +1,1 @@
+select * from aluno where nota > 7;
